@@ -6,7 +6,7 @@
 
 ### Check out our onboarding website with centralized resources [here](https://mdst-club.notion.site/MDST-Onboarding-3d1b3591dd224115a548325a7d66a723)!
 
-If there are any issues or areas of improvement you would like us to know, please create a new entry in "Issues" 
+If there are any issues or areas of improvement you would like us to know, please create a new entry in "Issues"
 
 ## Setup
 
@@ -52,19 +52,18 @@ RvF - Computer Vision: Fake Face Detection
 
 These checkpoints are _not_ meant to be selective. Their sole purpose is to give you sufficient foundational knowledge about Python and some important packages so you can start contributing to a project.
 
-The definition of success for us is to have everyone who begins the tutorials finish them. Thus, we will offering support with Office Hours 
+The definition of success for us is to have everyone who begins the tutorials finish them. Thus, we will offering support with Office Hours
 
-* OHs are not mandatory
+- OHs are not mandatory
 
 Tutorial Overview (9/5, 6-7 PM)
 2448 MH
 
-Office Hours #1 (9/9, 6-8 PM) 
-2448 MH 
+Office Hours #1 (9/9, 6-8 PM)
+2448 MH
 
-Office Hours #2 (9/12, 5-7 PM) 
-2448 MH 
-
+Office Hours #2 (9/12, 5-7 PM)
+2448 MH
 
 ## Submission
 
@@ -74,17 +73,16 @@ Submitting checkpoints: [Google Form](https://docs.google.com/forms/d/e/1FAIpQLS
 
 We are looking for:
 
--   [**REQUIRED**] Checkpoint 0 and Checkpoint 1. These are assessed by completion and effort, not accuracy.
--   [**OPTIONAL**] Any additional challenges you completed. These are assessed by merit.
+- [**REQUIRED**] Checkpoint 0 and Checkpoint 1. These are assessed by completion and effort, not accuracy.
+- [**OPTIONAL**] Any additional challenges you completed. These are assessed by merit.
 
-*If you completed the optional challenges, we will use your GitHub link to look through them. 
+\*If you completed the optional challenges, we will use your GitHub link to look through them.
 
 ## Contact
 
 All technical or logistical questions MUST be posted on the ED forum. We will not answer those questions over email.
 
 If you have a personal question, email us at mdst-education@umich.edu.
-
 
 ## Official Documentations
 
